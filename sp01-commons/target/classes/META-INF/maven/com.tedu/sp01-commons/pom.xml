@@ -6,7 +6,6 @@
 	<artifactId>sp01-commons</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>sp01-commons</name>
-
 	<dependencies>
 		<dependency>
 			<groupId>com.fasterxml.jackson.module</groupId>
@@ -45,9 +44,9 @@
 			<version>1.7.26</version>
 		</dependency>
 		<dependency>
-			<groupId>org.apache.commons</groupId>
-			<artifactId>commons-lang3</artifactId>
-			<version>3.9</version>
+		    <groupId>org.apache.commons</groupId>
+		    <artifactId>commons-lang3</artifactId>
+		    <version>3.9</version>
 		</dependency>
 
 	</dependencies>
@@ -65,5 +64,4 @@
 			</plugin>
 		</plugins>
 	</build>
-
 </project>
